@@ -2,7 +2,7 @@
 Hotel  Reservation System
 
 The Hotel Reservation System allows customers to:
-•	View available rooms for specific dates.
+•View available rooms for specific dates.
 •	Book rooms based on availability.
 •	Modify or cancel existing reservations.
 
