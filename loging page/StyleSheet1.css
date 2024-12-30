@@ -1,0 +1,163 @@
+﻿body {
+    background-image: url('pexels-kamenczak-775219.jpg');
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+}
+
+
+.background-box {
+    background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent white */
+    backdrop-filter: blur(5px); 
+    padding: 20px; 
+    border: none;
+    border-radius: 10px; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+    width: 100%; 
+    max-width: 600px; 
+    height: auto; /* Flexible height */
+    position: absolute; 
+}
+
+
+    .background-box h1 {
+        font-size: 2.5rem; 
+        text-align: right;
+        color: black;
+
+    }
+
+    .background-box p {
+        font-size: 0.9rem; 
+        font-family: 'Roboto', sans-serif;
+        text-align: right;
+        color: black;
+        font-weight: bold;
+    }
+
+.login-box {
+    padding: 20px; /* Space inside the box */
+    border: none; 
+    border-radius: 10px; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    width: 30%; 
+    max-width: 300px;
+    height: auto; 
+    position: absolute; 
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+    align-items: center; 
+    top: 55%; 
+    left: 20%;
+    transform: translate(-50%, -50%); /* Adjust positioning for perfect centering */
+    
+}
+
+.login-box h2 {
+        margin: 0 0 10px; 
+        font-size: 2.5rem;
+        color: black;
+        text-align: center; 
+        width: 100%; 
+}
+
+    .login-box p2 {
+        margin: 0 0 10px; 
+        font-size: 0.3rem;
+        color: black;
+        text-align: center; 
+        width: 100%; 
+    }
+
+    .login-box h2::after {
+        content: ""; /* Empty content for the decorative line */
+        display: block;
+        width: 25%; 
+        height: 3px; /* Line thickness */
+        background-color: black; /* Line color */
+        margin: 10px auto 0; 
+    }
+
+input {
+    
+    padding: 10px;
+    border: none; /* Removes the border */
+    border-radius: 5px;
+    font-size: 1rem;
+    box-sizing: border-box; /* Include padding in width */
+    outline: none; /* Removes the outline on focus */
+}
+
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Adjust alignment */
+    margin: 0px; /* Optional for spacing */
+
+}
+
+/* Container for input and label */
+.input-container {
+    position: relative;
+    margin: 20px 0;
+    width: 300px;
+}
+
+
+/* Icon styles */
+.username-icon {
+    width: 35px; 
+    height: 38px; 
+    margin-right: 10px; 
+    position: relative; 
+    left: 205px;
+    top: 38px; /* Adjust vertical alignment */
+}
+.display-line {
+    margin-top: 0px;
+    border-top: 0.3px solid #aaa; /* Line beneath */
+    padding: 0px 0; 
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+.password-icon {
+    width: 35px; 
+    height: 38px;
+    margin-right: 10px; 
+    position: relative;
+    left: 205px;
+    top: 38px;
+}
+button.login-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: black; 
+    color: white; 
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2rem; 
+    cursor: pointer; /* Change cursor to indicate it's clickable */
+    box-sizing: border-box; 
+    margin-top: 15px;
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+}
+
+.login-box h3 {
+    margin: 0 0 10px; 
+    font-size: 0.9em;
+    color: black;
+    text-align: center; 
+    width: 100%; 
+}
+a.link {
+    display: inline-block; /* Keeps the link on the same line */
+    text-decoration: none; /* Removes underline */
+    color: purple;
+    font-size: 0.9rem; 
+    margin-top: 0px; 
+}
+
