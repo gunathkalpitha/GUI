@@ -1,0 +1,53 @@
+﻿
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #F5F5F5;
+    color: #333;
+    
+}
+.hero2 {
+    background: url('about_images/home.jpg') no-repeat center center/cover;
+    color: #fff;
+    text-align:center;
+    padding:220px 5px;
+}
+
+
+
+section.about {
+    margin-top: 1em;
+    text-align: left;
+}
+
+
+
+section {
+    padding: 0;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.about h1, .about h2, .why-choose h2, .vision h2 {
+    color: #E74C3C;
+    text-align: left;
+}
+
+.about p, .why-choose ul, .vision p {
+    line-height: 1.6;
+    text-align: left;
+}
+
+.why-choose ul {
+    list-style: disc;
+    margin-left: 2em;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+    margin-top: 2em;
+}

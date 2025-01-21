@@ -1,0 +1,53 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 1em 2em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    
+    font-weight: bold;
+    color: #E74C3C;
+}
+.ceylon {
+    font-family: 'Pacifico', cursive;
+    color: #E74C3C; 
+    font-size: 1.6em;
+}
+
+.haven {
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 1.2em;
+    color: black;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+    nav a:hover {
+        color: #E74C3C;
+    }
+
+nav .profile-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%; 
+    background-image: url('com_images/profile-user.png');
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+}
