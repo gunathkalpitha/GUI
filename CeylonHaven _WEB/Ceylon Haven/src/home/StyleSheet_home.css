@@ -4,17 +4,12 @@
 }
 
 
-
-
-
-
-
-
 .hero {
     background: url('hom_images/home.jpg') no-repeat center center/cover;
     color: #fff;
     text-align:center;
-    padding:220px 5px;
+    padding:220px 10px;
+    
 }
 
     .hero h1 {
@@ -22,13 +17,15 @@
         margin: 0 0 10px;
         padding: 0;
         margin-top: 0px;
-        color:white;
+        color:#ffffff;
+       
     }
 
     .hero p {
         font-size: 30px;
-        margin-bottom: 90px;
+        margin-bottom: 90px; 
         color:white;
+        
     }
 
     .hero .reserve-btn {
@@ -45,6 +42,8 @@
         .hero .reserve-btn:hover {
             background-color: #e59400;
         }
+
+        
 
 .check-availability {
     background-color: #fff;
@@ -119,7 +118,7 @@
         overflow: hidden;
         max-width: 300px;
         flex: 1;
-        text-align: left;
+        text-align: center;
     }
 
         .services .service-item img {
@@ -139,24 +138,97 @@
         }
 
 
-.abouthome {
-    padding: 50px 20px;
-    background: #fff;
-    text-align: center;
-}
-
-    .abouthome h2 {
-        font-size: 36px;
-        margin-bottom: 20px;
-        color: #E74C3C;
-    }
+        .about-home {
+            padding: 50px 20px;
+            background: #fff;
+            text-align: center;
+            max-width:auto;
+            margin: 0 auto 20px; /* Adjust bottom margin */
+        }
+        
+        .about-home h2 {
+            font-size: 36px;
+            margin-bottom: 20px;
+            color: #E74C3C;
+        }
+        
+        .about-home p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        
 
     .abouthome p {
         font-size: 16px;
         margin-bottom: 20px;
     }
 
-
+    .services {
+        padding: 50px 20px;
+        background-color: #f9f9f9;
+        text-align: center;
+    }
+    
+    .services h2 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    
+    .services .service-list {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    
+    .services .service-item {
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        max-width: 300px;
+        flex: 1;
+        text-align: left;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        position: relative;
+    }
+    
+    .services .service-item img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        transition: transform 0.3s ease;
+    }
+    
+    .services .service-item h3 {
+        margin: 10px;
+        font-size: 20px;
+    }
+    
+    .services .service-item p {
+        margin: 10px;
+        font-size: 14px;
+    }
+    
+   
+    .services .service-item:hover {
+        transform: translateY(-10px); 
+        box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+    }
+    
+    .services .service-item:hover img {
+        transform: scale(1.1); 
+    }
+    
+    .services .service-item:hover h3 {
+        color: #f5a623;
+    }
+    
+    .services .service-item:hover p {
+        color: #555; 
+    }
+    
 
 footer {
     text-align: center;

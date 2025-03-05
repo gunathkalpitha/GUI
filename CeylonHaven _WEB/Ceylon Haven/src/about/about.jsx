@@ -13,7 +13,6 @@ const AboutPage = () => {
 
       <section className="about">
         <h1>About Us</h1>
-        <h2>Welcome to Ceylon Haven</h2>
         <p>
           At Ceylon Haven, we redefine travel experiences by offering you the
           convenience of seamless hotel reservations. Rooted in the heart of Sri

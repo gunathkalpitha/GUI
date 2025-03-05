@@ -1,58 +1,63 @@
-import React from 'react';
+import React, { useState } from 'react';
+import axios from 'axios';
 import './StyleSheet_login.css';
 import usernameIcon from './images/usernameicon.webp';
 import passwordIcon from './images/pwicon.webp';
 
-
-
 const LoginPage = () => {
+    const [username, setUsername] = useState('');
+    const [password, setPassword] = useState('');
+    const [message, setMessage] = useState('');
+
+    const handleSubmit = async (event) => {
+        event.preventDefault();
+
+        try {
+            const response = await axios.post("http://localhost:4000/login", { 
+                username, 
+                password 
+            });
+            setMessage(response.data.message || "Login Successful");
+        } catch (error) {
+            setMessage(error.response?.data?.error || "Login failed");
+        }
+    };
+
     return (
         <div>
-           
-
-           
             <div className="background-box">
-                
                 <div className="login-box">
                     <h2 className="underline">Login</h2>
+                    {message && <p style={{ color: message.includes("Successful") ? "green" : "red" }}>{message}</p>}
+                    
+                    <form onSubmit={handleSubmit}>  
+                        <div className="input-container">
+                            <input type="text" placeholder="Username" required onChange={(e) => setUsername(e.target.value)} />
+                            <img src={usernameIcon} alt="Username Icon" className="icon username-icon" />
+                        </div>
+                        <div className="input-container">
+                            <input type="password" placeholder="Password" required onChange={(e) => setPassword(e.target.value)} />
+                            <img src={passwordIcon} alt="Password Icon" className="icon password-icon" />
+                        </div>
+                        <button type="submit" className="login-btn">Login</button>
+                    </form>
 
-                <div className="input-container">
-                    <input type="text" id="username" name="username" placeholder="Username" required />
-                    <img src={usernameIcon} alt="Username Icon" className="icon username-icon" />
-                </div>
-                <div className="input-container">
-                    <input type="password" id="psword" name="psword" placeholder="Password" required />
-                    <img src={passwordIcon} alt="Password Icon" className="icon password-icon" />
-                </div>
-                    <a href="#" className="link">Forgot password?</a>
-                    <button type="submit" className="login-btn">Login</button>
-                    <h3>Don't have an account? <a  href="/signup " className="link">Sign Up</a></h3>
+                    <h3>Don't have an account? <a href="/signup" className="link">Sign Up</a></h3>
                 </div>
 
-                <div className="vertical-divider"></div>
-
-              
                 <div className="welcome-box">
                     <h1>WELCOME TO</h1>
                     <div className="logo">
                         <span className="ceylon">Ceylon</span>
                         <span className="haven">Haven</span>
                     </div>
-                    <br />
-                    <p>
-                        Your journey to luxury begins<br />
-                        Here Seamless booking experience<br />
-                        Connecting dream destinations <br />
-                        Nationwide.
-                    </p>
+                    <p>Your journey to luxury begins here.</p>
                 </div>
             </div>
 
             <footer className="footer">
                 <p>&copy; 2025 Ceylon Haven. All rights reserved.</p>
             </footer>
-
-           
         </div>
     );
 };
