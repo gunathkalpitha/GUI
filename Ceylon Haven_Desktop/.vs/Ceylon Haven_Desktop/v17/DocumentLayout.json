@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\availablerooms.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\availablerooms.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\availablerooms.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\availablerooms.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|c:\\users\\lap.lk\\desktop\\ceylon haven_desktop\\ceylon haven_desktop\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0D9B8-F346-4D10-8A9A-BB2D1F80DCB0}|Ceylon Haven_Desktop\\Ceylon Haven_Desktop.csproj|solutionrelative:ceylon haven_desktop\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 368,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "aboutpage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\aboutpage.xaml.cs",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\aboutpage.xaml.cs",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\aboutpage.xaml.cs",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\aboutpage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:50:09.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aboutpage.xaml",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\aboutpage.xaml",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\aboutpage.xaml",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\aboutpage.xaml",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\aboutpage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T23:50:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\App.xaml.cs",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:54:18.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "loginpage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\loginpage.xaml.cs",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\loginpage.xaml.cs",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\loginpage.xaml.cs",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\loginpage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:00:38.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profilepage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\Profilepage.xaml.cs",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\Profilepage.xaml.cs",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\Profilepage.xaml.cs",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\Profilepage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:57:52.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:55:31.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "signuppage.xaml",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\signuppage.xaml",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\signuppage.xaml",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\signuppage.xaml",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\signuppage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T02:47:39.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profilepage.xaml",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\Profilepage.xaml",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\Profilepage.xaml",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\Profilepage.xaml",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\Profilepage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T16:58:40.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\MainWindow.xaml",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T16:55:13.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "signuppage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\signuppage.xaml.cs",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\signuppage.xaml.cs",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\signuppage.xaml.cs",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\signuppage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T02:47:44.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AvailableRooms.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\AvailableRooms.xaml.cs",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\AvailableRooms.xaml.cs",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\AvailableRooms.xaml.cs",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\AvailableRooms.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:39:33.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AvailableRooms.xaml",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\AvailableRooms.xaml",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\AvailableRooms.xaml",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\AvailableRooms.xaml",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\AvailableRooms.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T08:12:18.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "loginpage.xaml",
+              "DocumentMoniker": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\loginpage.xaml",
+              "RelativeDocumentMoniker": "Ceylon Haven_Desktop\\loginpage.xaml",
+              "ToolTip": "C:\\Users\\lap.lk\\Desktop\\Ceylon Haven_Desktop\\Ceylon Haven_Desktop\\loginpage.xaml",
+              "RelativeToolTip": "Ceylon Haven_Desktop\\loginpage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T16:55:55.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
